@@ -1,5 +1,7 @@
 # Challenge: Design an interaction on Screen
 
+![P5jsChallenge5MozillaFirefox2024-02-2223-29-16-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/126d7921-47de-40cf-a198-068f3e251971)
+
 ## Overview
 Create an interaction on screen with 5 state changes in a group of two. Made for Texas A&M's Human Computer Interaction Course Spring 24 (CSCE 436-500/200).
 
